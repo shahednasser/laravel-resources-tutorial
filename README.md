@@ -1,6 +1,6 @@
 # Laravel Resources Tutorial
 
-Code for Laravel Resources tutorial
+Code for [Laravel Resources tutorial](https://blog.shahednasser.com/beginners-guide-to-laravel-resources/)
 
 ## Installation
 
